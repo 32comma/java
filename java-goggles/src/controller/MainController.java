@@ -4,6 +4,6 @@ import driver.TagDriver;
 
 public class MainController {
 	public static void main(String[] args) {
-		new TagDriver();
+		TagDriver tagDriver = new TagDriver();
 	}
 }
